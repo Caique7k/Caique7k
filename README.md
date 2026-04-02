@@ -1,80 +1,60 @@
-# Hi 👋, I'm Caique Alves
+<h1 align="left">Hello, I'm Caique Alves</h1>
 
-## 🚀 Junior Fullstack Developer
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <p>
+        I am a Brazilian junior fullstack developer focused on building web applications
+        with performance, clean architecture, and real-world problem solving.
+      </p>
+      <p>
+        My main stack includes JavaScript, React, Next.js, NestJS, Node.js, and .NET, and I am
+        constantly improving my backend, software architecture, and SaaS product skills.
+      </p>
+      <p><strong>Some of the technologies I work with:</strong></p>
+      <p>
+        <img
+          src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,tailwind,nodejs,dotnet,cs,python,prisma,mysql,postgres,docker,git,vercel&perline=6"
+          alt="Tech stack icons"
+        />
+      </p>
+      <p><strong>What I usually build:</strong></p>
+      <ul>
+        <li>Web systems and CRUD applications</li>
+        <li>Authentication flows, APIs, and business logic</li>
+        <li>Dashboards, admin panels, and integrations</li>
+        <li>Projects with clean code and performance in mind</li>
+      </ul>
+      <p>
+        If you need anything, feel free to reach me at:
+        <a href="mailto:caiquealves7k@gmail.com">caiquealves7k@gmail.com</a>
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/caique7k/">
+          <img src="https://img.shields.io/badge/LinkedIn-Caique%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/Caique7k">
+          <img src="https://img.shields.io/badge/GitHub-Caique7k-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="https://www.instagram.com/caiquee7k/">
+          <img src="https://img.shields.io/badge/Instagram-@caiquee7k-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="./assets/dev-setup.svg" width="360" alt="Developer workspace illustration" />
+    </td>
+  </tr>
+</table>
 
-**JavaScript, React & .NET**  
-**🇧🇷 Brazil**
-
-I build web applications and systems focused on performance, clean architecture, and real-world problem solving.
-
-Currently improving my skills in fullstack development, software architecture, and SaaS products.
-
-I enjoy turning ideas into functional products and continuously learning better ways to write clean and efficient code.
-
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/Caique7k">
-    <img src="https://img.shields.io/badge/GitHub-Caique7k-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/caiquee7k/">
-    <img src="https://img.shields.io/badge/Instagram-@caiquee7k-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/caique7k/">
-    <img src="https://img.shields.io/badge/LinkedIn-caique7k-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-## 🧠 What I do
-
-- 🏗️ Web systems & CRUD applications
-- ⚡ Performance-focused development
-- 🧩 Clean code & good practices
-- 🔐 Authentication & APIs
-- 💳 Business rules & backend logic
-- 🤖 Automation & integrations
-- 📊 Dashboards & admin panels
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Caique7k&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique7k&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Caique7k&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique7k&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-## 🚀 Philosophy
+## Philosophy
 
 > "Code is not just about solving problems.
 > It's about building solutions that scale, last, and generate real value."
-
-## 🤝 Let's build something cool
-
-- ⭐ If you like my work, consider starring a repository.
-- 🤝 Always open to collaborations, partnerships, and cool ideas.
