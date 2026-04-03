@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm Caique Alves</h1>
 
-<img align="right" src="./assets/dev-setup.svg" width="340" alt="Developer workspace illustration" />
+<img align="right" src="./assets/dev-setup.svg" width="420" alt="Developer workspace illustration" />
 
 <p>
   I am a Brazilian junior fullstack developer focused on building web applications
@@ -49,18 +49,7 @@
 
 <br clear="right" />
 
-## GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/Caique7k">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Caique7k&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/Caique7k?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique7k&layout=compact&theme=tokyonight" alt="Top languages" />
-  </a>
-</p>
-
 ## Philosophy
 
-> "Code is not just about solving problems.
-> It's about building solutions that scale, last, and generate real value."
+> "Great software is not just about making things work.
+> It's about building clear, scalable, and meaningful solutions."
