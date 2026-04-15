@@ -1,55 +1,56 @@
-<h1 align="left">Hello, I'm Caique Alves</h1>
+<h1 align="left">Hi, I'm Caique Alves 👋</h1>
 
-<img align="right" src="./assets/dev-setup.svg" width="420" alt="Developer workspace illustration" />
+<img align="right" src="./assets/dev-setup.svg" width="360" />
 
 <p>
-  I am a Brazilian junior fullstack developer focused on building web applications
-  with performance, clean architecture, and real-world problem solving.
+Backend Developer focused on building REST APIs with <strong>Node.js (NestJS)</strong> and <strong>PostgreSQL</strong>.
 </p>
 
 <p>
-  My main stack includes JavaScript, React, Next.js, NestJS, Node.js, and .NET, and I am
-  constantly improving my backend, software architecture, and SaaS product skills.
+Currently transitioning to <strong>Java (Spring Boot)</strong>, applying best practices in API design, authentication, and scalable systems.
 </p>
 
-<p><strong>Some of the technologies I work with:</strong></p>
+---
+
+## 🚀 What I Do
+
+- Build REST APIs with CRUD operations  
+- Implement authentication (JWT) and authorization  
+- Design relational databases (PostgreSQL)  
+- Develop backend systems with real-world business logic  
+
+---
+
+## 💻 Tech Stack
 
 <p>
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,tailwind,nodejs,dotnet,cs,python,prisma,mysql,postgres,docker,git,vercel&perline=6"
-    alt="Tech stack icons"
-  />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,postgres,nextjs,docker,git&perline=6" />
 </p>
 
-<p><strong>What I usually build:</strong></p>
+---
 
-<ul>
-  <li>Web systems and CRUD applications</li>
-  <li>Authentication flows, APIs, and business logic</li>
-  <li>Dashboards, admin panels, and integrations</li>
-  <li>Projects with clean code and performance in mind</li>
-</ul>
+## 📌 Featured Projects
+
+- 🏥 **Hospital Call Panel System**  
+  Real-time system with performance improvements in patient flow  
+
+- 🍽️ **Digital Menu SaaS (Production)**  
+  Multi-client system with backend APIs and database modeling  
+
+- 🚌 **UniPass (IoT + Backend)**  
+  RFID + ESP32 integration with real-time data processing  
+
+---
+
+## 📫 Contact
 
 <p>
-  If you need anything, feel free to reach me at:
-  <a href="mailto:caiquealves7k@gmail.com">caiquealves7k@gmail.com</a>
-</p>
-
-<p>
+  <a href="mailto:caiquealves7k@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/caique7k/">
-    <img src="https://img.shields.io/badge/LinkedIn-Caique%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Caique7k">
-    <img src="https://img.shields.io/badge/GitHub-Caique7k-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/caiquee7k/">
-    <img src="https://img.shields.io/badge/Instagram-@caiquee7k-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/LinkedIn-Caique%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <br clear="right" />
-
-## Philosophy
-
-> "Great software is not just about making things work.
-> It's about building clear, scalable, and meaningful solutions."
