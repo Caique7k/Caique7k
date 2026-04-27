@@ -1,46 +1,60 @@
 <h1 align="left">Hi, I'm Caique Alves 👋</h1>
 
+<!-- Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=22&center=false&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS;Focused+on+Secure+APIs;Cybersecurity+Enthusiast" />
+</p>
+
 <img align="right" src="./assets/dev-setup.svg" width="360" />
 
 <p>
-Backend Developer focused on building REST APIs with <strong>Node.js (NestJS)</strong> and <strong>PostgreSQL</strong>.
+Backend Developer specialized in <strong>Node.js (NestJS)</strong>.
 </p>
 
 <p>
-Currently transitioning to <strong>Java (Spring Boot)</strong>, applying best practices in API design, authentication, and scalable systems.
+Focused on building <strong>secure, scalable APIs</strong>, applying best practices in architecture, authentication, and data protection.
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🔐 What I Do
 
-- Build REST APIs with CRUD operations  
-- Implement authentication (JWT) and authorization  
-- Design relational databases (PostgreSQL)  
-- Develop backend systems with real-world business logic  
+- Build REST APIs with Node.js (NestJS)  
+- Implement authentication & authorization (JWT, RBAC)  
+- Design scalable backend architectures  
+- Work with PostgreSQL using Prisma ORM  
+- Apply security best practices in backend development  
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs,postgres,nextjs,docker,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma,docker,linux,git&perline=6" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🛡️ Cybersecurity (Secondary Focus)
 
-- 🏥 **Hospital Call Panel System**  
-  Real-time system with performance improvements in patient flow  
+<p>
+I study cybersecurity alongside backend development, applying practical security concepts to improve the robustness of my systems.
+</p>
 
-- 🍽️ **Digital Menu SaaS (Production)**  
-  Multi-client system with backend APIs and database modeling  
-
-- 🚌 **UniPass (IoT + Backend)**  
-  RFID + ESP32 integration with real-time data processing  
+- Secure authentication flows (JWT, Guards, RBAC)  
+- Password hashing (bcrypt)  
+- Protection against common vulnerabilities (SQL Injection, XSS, CSRF)  
+- Input validation and data sanitization  
+- API protection strategies (rate limiting, validation layers)  
 
 ---
+
+## ⚡ GitHub Overview
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=caique7k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique7k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
 
 ## 📫 Contact
 
